@@ -1,0 +1,10 @@
+Functionalitati ale aplicatiei Stack Overflow
+
+1. Este o aplicatie open-source, oricine poate sa-si creeze un cont.
+2. Se pot incarca diferite dificultati intalnite de alti users.
+3. Fiecare user poate sa dea un raspuns referitor la probleme incarcate pe site.
+4. Se poate vizualiza tot istoricul problemei unui user si se poate vota cel mai bun raspuns.
+5. Are o baza de date unde sunt stocati toti userii.
+6. Este o platforma pe care se pot cauta joburi.
+7. Este introdusa o functionalitate pentru companii in care se poate crea un Q&A pentru echipele din cadrul acestora.
+8. Contine o gama variata de probleme intalnite in timpul programarii din diferite limbaje de programare.
