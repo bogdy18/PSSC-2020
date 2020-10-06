@@ -1,0 +1,22 @@
+Context:
+ -utilizator
+ -intrebare
+ -raspuns
+ -vot
+ -contorizare voturi
+ -job
+ -aplicare job
+ -feedback job
+
+Evenimente:
+ -creare user
+ -logare
+ -delogare
+ -postarea unei intrebari/neclaritati
+ -stergerea unei intrebari/neclaritati
+ -postare raspuns
+ -stergere raspuns
+ -votare raspuns/intrebare
+ -cautare job
+ -aplicare job
+ -raspuns/feedback job
